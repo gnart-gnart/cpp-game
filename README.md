@@ -12,3 +12,4 @@ Started on: June, 12th, 2026.
 ## High-Level Vulkan Notes
 ### Lesson 1: Drawing a Triangle
 Most operations in Vulkan are asynchronously executed by submitting them to a `vk::Queue`.
+Damn, I have to learn CMake :(
